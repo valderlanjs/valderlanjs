@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Valderlan José ✋🖥️
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valderlan-jose-576b28201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ%2BXi9CjtQP6lIM1G81YubQ%3D%3D)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valderlanjs?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ%2BXi9CjtQP6lIM1G81YubQ%3D%3D)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/valderlanjs/)
 
 
