@@ -1,25 +1,42 @@
-### Olá! Eu sou o Valderlan José ✋🖥️
+<div align="center" style="text-align: center;">
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valderlanjs/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ%2BXi9CjtQP6lIM1G81YubQ%3D%3D)
-[![portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ghost&logoColor=blue)](https://www.valderlan-dev.site/)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=234BEE&lines=Olá,%20+me+chamo+Valderlan;Eu+sou+desenvolvedor+fullstack+💻;Seja+muito+bem+vindo!+:)" alt="Typing SVG">
+  </a>
+</div>
 
-![Valderlan GitHub stats](https://github-readme-stats.vercel.app/api?username=valderlanjs&show_icons=true&bg_color=00000000)
+<p align="center">
+  
+  <a href="https://www.valderlan-dev.site/">
+    <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="blog">
+  </a>
+  <a href="https://linkedin.com/in/valderlanjs">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+</p>
 
-## Tecnologias que tenho conhecimento
+<div>
+  <h3>Eu gosto de...</h3>
+  <br> </br>
+  <ul>
+    <li>☕ Café</li>
+    <li>👩‍💻 Codar</li>
+    <li>🎮 Jogar</li>
+    <li>📺 Assistir futebol</li>
+  </ul>
+</div>
 
-<div style="display: inline_block" ><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 3px;">
-    <img align="center"  alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 3px;">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-bottom: 3px;">
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 3px;">
-     <img align="center" alt="bootatrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 3px;">  
-     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="margin-bottom: 3px;">
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="margin-bottom: 3px;">
-    <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 3px;">
-    <img align="center" alt="mongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
-    <img align="center" alt="react native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >   
-    
-    
-<br/></div>
+<br><br>
 
-Apaixonado por tecnologia e por mudar o mundo através da programação.
+<h2 align="center">🚀 Principais tecnologias:</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,mysql,docker,git,github,vscode,figma,&perline=14" />
+</div>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valderlanjs&layout=compact&hide_border=true&theme=dracula">
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valderlanjs&theme=dracula" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
+</p>
