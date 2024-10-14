@@ -7,7 +7,7 @@
 
 <p align="center">
   
-  <a href="https://www.valderlan-dev.site/">
+  <a href="https://dev-valderlan.com.br/">
     <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="blog">
   </a>
   <a href="https://linkedin.com/in/valderlanjs">
