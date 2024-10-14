@@ -16,13 +16,13 @@
 </p>
 
 <div>
-  <h3>Eu gosto de...</h3>
+  <h3>Apaixonado por...</h3>
   <br> </br>
   <ul>
     <li>☕ Café</li>
     <li>👩‍💻 Codar</li>
     <li>🎮 Jogar</li>
-    <li>📺 Assistir futebol</li>
+    <li>📺 Futebol</li>
   </ul>
 </div>
 
