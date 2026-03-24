@@ -1,42 +1,96 @@
-<div align="center" style="text-align: center;">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=234BEE&lines=Olá,%20+me+chamo+Valderlan;Eu+sou+desenvolvedor+fullstack+💻;Seja+muito+bem+vindo!+:)" alt="Typing SVG">
-  </a>
-</div>
-
-<p align="center">
-  
-  <a href="https://dev-valderlan.com.br/">
-    <img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" alt="blog">
-  </a>
-  <a href="https://linkedin.com/in/valderlanjs">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>
-</p>
-
-<div>
-  <h3>Apaixonado por...</h3>
-  <br> </br>
-  <ul>
-    <li>☕ Café</li>
-    <li>👩‍💻 Codar</li>
-    <li>🎮 Jogar</li>
-    <li>📺 Futebol</li>
-  </ul>
-</div>
-
-<br><br>
-
-<h2 align="center">🚀 Principais tecnologias:</h2>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,mongodb,mysql,docker,git,github,vscode,figma,&perline=14" />
+
+# Valderlan Silva
+### Data Analyst | BI Developer | Focado em Engenharia de Dados
+
 </div>
 
-<br><br>
+---
+
+## Sobre mim
+
+Sou Analista de Dados com experiência na construção de ambientes de BI, automação de processos analíticos e estruturação de dados para tomada de decisão.
+
+Atuo desenvolvendo dashboards, integrando dados de bancos relacionais e automatizando relatórios, apoiando áreas de negócio como Comercial, Marketing e Operações na definição e acompanhamento de KPIs.
+
+Atualmente estou direcionando minha carreira para **Engenharia de Dados**, com foco em construção de pipelines, modelagem de dados e arquitetura de dados.
+
+---
+
+## Experiência prática com dados
+
+- Estruturação de ambientes de BI corporativo
+- Desenvolvimento de dashboards gerenciais
+- Automação de relatórios com SQL e Python
+- Integração de dados a partir de bancos relacionais
+- Definição e acompanhamento de KPIs de negócio
+- Análises de vendas, margem, marketing e operações
+- Modelagem de dados para BI
+- Redução de processos manuais através de automação
+
+---
+
+## Stack de Dados
+
+**Linguagens & Banco de Dados**
+- Python
+- SQL
+- PostgreSQL
+- Pandas
+
+**BI & Analytics**
+- Power BI
+- Excel
+- QlikView
+- DAX
+- Modelagem de Dados
+
+**Engenharia de Dados**
+- ETL
+- Data Warehouse
+- Modelagem Dimensional
+- APIs com FastAPI
+- Docker
+
+**Ferramentas**
+- Git
+- GitHub
+- VSCode
+- pgAdmin
+- Docker
+
+---
+
+## Projetos
+
+Atualmente desenvolvendo uma **Plataforma de BI própria**, simulando uma arquitetura real de dados:
+
+- Backend em FastAPI
+- Frontend em React
+- Banco PostgreSQL
+- ETL em Python
+- Modelagem Data Warehouse
+- Dashboards e métricas via API
+- Integração com dados de ERP
+
+---
+
+## Objetivo profissional
+
+Atuar com Engenharia de Dados, Analytics Engineering ou Business Intelligence, trabalhando com construção de pipelines de dados, modelagem e plataformas de dados.
+
+---
+
+## Contato
+
+- LinkedIn: linkedin.com/in/valderlanjs
+- Portfólio: dev-valderlan.com.br
+
+---
+
+## Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=valderlanjs&layout=compact&hide_border=true&theme=dracula">
-  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valderlanjs&theme=dracula" alt="Profile statistics" width="300px" height="163" style="border: none"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=valderlanjs&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valderlanjs&layout=compact&theme=dracula">
 </p>
